@@ -6,6 +6,8 @@ CIS 120 Game Project README
 =: Core Concepts :=
 ===================
 
+![winScreen](files/winScreen.png)
+
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
   submitting your proposal.
