@@ -6,7 +6,7 @@ CIS 120 Game Project README
 =: Core Concepts :=
 ===================
 
-![winScreen](files/winScreen.png)
+![winScreen](https://github.com/carlyryan/bubbles-wild-ride/blob/main/files/winScreen.png)
 
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
